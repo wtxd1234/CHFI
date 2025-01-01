@@ -7,3 +7,4 @@
 ## [CHFI Module 6: Windows Forensics](m6.md)
 ## [CHFI Module 7: Linux and Mac Forensics](m7.md)
 ## [CHFI Module 8: Network Forensics](m8.md)
+## [CHFI Module 9: Investigating Email Crimes](m9.md)
