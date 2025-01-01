@@ -5,3 +5,4 @@
 ## [CHFI Module 4: Data Acquisition and Duplication](m4.md)
 ## [CHFI Module 5: Defeating Anti-Forensics Techniques](m5.md)
 ## [CHFI Module 6: Windows Forensics](m6.md)
+## [CHFI Module 7: Linux and Mac Forensics](m7.md)
