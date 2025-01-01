@@ -6,3 +6,4 @@
 ## [CHFI Module 5: Defeating Anti-Forensics Techniques](m5.md)
 ## [CHFI Module 6: Windows Forensics](m6.md)
 ## [CHFI Module 7: Linux and Mac Forensics](m7.md)
+## [CHFI Module 8: Network Forensics](m8.md)
