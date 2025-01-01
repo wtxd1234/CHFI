@@ -3,3 +3,4 @@
 ## [CHFI Module 2: Computer Forensics Investigation Process](m2.md)
 ## [CHFI Module 3: Understanding Hard Disks and File Systems](m3.md)
 ## [CHFI Module 4: Data Acquisition and Duplication](m4.md)
+## [CHFI Module 5: Defeating Anti-Forensics Techniques](m5.md)
